@@ -1,0 +1,17 @@
+h1 {
+font-size: 3em;
+color: maroon;
+  }
+h3 {
+  color: maroon;
+}
+.locationDate {
+  color: gray;
+  font-size: .75em;
+  }
+
+  .contactInfo {
+    color: purple;
+    font-size: .75em;
+    magrin: 0 auto;
+  }
